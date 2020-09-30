@@ -47,7 +47,7 @@
 				border-bottom: 2px solid black;
 				font-family: myRaleway;
 				text-align: center;
-				padding: 10px;
+				padding: 5x;
 			}
 			
 			.column{
@@ -62,7 +62,7 @@
 			}
 			
 			.contact{
-				display: inline;
+				display: inline;			
 			}
 			
 			.jobTitle{
