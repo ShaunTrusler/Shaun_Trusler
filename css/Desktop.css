@@ -18,6 +18,7 @@
 				width: 60%;
 				margin-left: 20%;
 				margin-top: 2%;
+				margin-bottom: 1%;
 			}
 			
 			.contentContainer{
@@ -107,6 +108,13 @@
 			
 			#GIT{
 				padding: 20px;
+			}
+			
+			#Signature{
+				font-family: myRaleway;
+				text-align: right;
+				color: white;
+				font-size: 10px;
 			}
 			
 			.workExperienceContainer{
