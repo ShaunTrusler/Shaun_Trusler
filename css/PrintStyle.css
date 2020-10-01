@@ -1,0 +1,191 @@
+*{
+				box-sizing: border-box;
+			}
+
+			@font-face {
+				font-family: myRaleway;
+				src: url("../Fonts/Raleway/Raleway-Regular.ttf");
+			}
+
+			.contentContainer{
+				font-family: myRaleway;
+				color: #397ea8;
+				font-size: 35px;
+				width: 50%;
+				
+			}
+			
+			.jobContainer{
+				font-size: 15px;
+				padding-bottom: 40px;
+				width: 75%;
+			}
+			
+			.header{
+				display: block;				
+				font-family: myRaleway;
+				text-align: left;
+				padding-left: 20px;
+			}
+			
+			.contactBlock{
+				display: block;
+				border-top: 2px solid black;
+				border-bottom: 2px solid black;
+				font-family: myRaleway;
+				text-align: center;
+				padding: 20x;
+			}
+			
+			.column{
+				float: left;
+				font-size: 15px;
+			}
+			
+			.page::after{
+				content: "";
+				clear: both;
+				display: table;
+			}
+			
+			.contact{
+				display: inline;
+				padding: 10px;
+			}
+			
+			.jobTitle{
+				color: #7f6766;
+			}			
+			
+			#Name{
+				padding-top: 10px;
+				color: #397ea8;
+				font-size: 50px;
+				height: 10px;
+				padding-top: 10px;
+			}
+			
+			#CurrentTitle{
+				color: #7f6766;
+				font-size: 30px;
+				height: 40px;
+			}
+			
+			#Sumary{
+				color: black;
+				font-size: 20px;
+			}
+			
+			#Email{
+				padding: 20px;
+			}
+			
+			#Tel{
+				padding: 20px;
+			}
+			
+			#Location{
+				padding: 20px;
+			}
+			
+			#LinkedIn{
+				padding: 20px;
+			}
+			
+			#GIT{
+				padding: 20px;
+			}
+			
+			#Signature{
+				font-family: myRaleway;
+				text-align: right;
+				color: white;
+				font-size: 10px;
+			}
+			
+			.workExperienceContainer{
+				font-family: myRaleway;
+				color: #397ea8;				
+				width: 50%;
+				margin-bottom: 100px;
+				padding-left: 20px;				
+			}
+			
+			.jobTitle{
+				font-size: 20px;
+				margin-bottom: 1px;
+				padding-top: 2px;
+			}
+			
+			.company{
+				font-size: 25px;
+				color: Black;
+			}
+			
+			.period{
+				display: inline;
+			}
+			
+			.location{
+				padding-left: 50px;
+				display: inline;
+			}
+			
+			.tasks{
+				color: black;			
+			}
+			
+			.myCert{
+				color: #7f6766;
+				
+			}
+			
+			.myEdu{
+				color: #7f6766;
+				font-size: 20px;
+			}
+			
+			.inst{
+				font-size: 25px;
+				color: Black;
+			}
+			
+			.headings{
+				font-size: 35px;
+			}
+			
+			.courses{
+				color: black;
+			}
+			
+			.skillsList{
+				display: inline-block;
+			}
+			
+			.skillsList ul{
+				list-style-type: none;
+				padding: 10px;
+			}
+			
+			.skills{
+				display: inline-block;
+				background-color: #397ea8;
+				color: white;
+				border-radius: 5px;
+				margin-top: 10px;
+				font-size: 15px;
+				padding: 10px;
+			}
+			
+			.myLang{
+				font-size: 20px;
+				color: Black;
+			}
+			
+			.proficiency{
+			}
+			
+			.interestList{
+				color: #7f6766;
+				
+			}
