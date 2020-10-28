@@ -96,6 +96,11 @@
 				padding: 20px;
 			}
 			
+			#CV{
+				display: none;
+				padding: 20px;				
+			}
+			
 			#Signature{
 				font-family: myRaleway;
 				text-align: right;
